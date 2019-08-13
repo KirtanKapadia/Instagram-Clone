@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon Aug 12 18:54:14 IST 2019
+1.base=D\:\\Android\\Instagram-Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=D\:\\Android\\Instagram-Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes2.dex
+0.set=DEX
+0.base=D\:\\Android\\Instagram-Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+2.baseType=DIRECTORY
+1.path=classes3.dex

@@ -1,0 +1,118 @@
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:52
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:56
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:59
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:78
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:69
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:51
+-keep class com.google.android.gms.cast.framework.ReconnectionService { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:48
+-keep class com.google.android.gms.cast.framework.media.MediaIntentReceiver { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:50
+-keep class com.google.android.gms.cast.framework.media.MediaNotificationService { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:89
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:122
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:130
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:109
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:104
+-keep class com.google.android.gms.tagmanager.TagManagerService { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:82
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashReceiverService { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:85
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashSenderService { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:150
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:135
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:157
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:97
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:165
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:38
+-keep class com.parse.starter.MainActivity { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:30
+-keep class com.parse.starter.StarterApplication { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:36
+-keep class com.parse.starter.UserFeedActivity { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\merged_manifests\release\AndroidManifest.xml:37
+-keep class com.parse.starter.userListActivity { <init>(); }
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\src\main\res\layout\activity_user_list.xml:2
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\src\main\res\layout\activity_user_feed.xml:2
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\src\main\res\layout\activity_main.xml:9
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_alert_dialog_material.xml:75
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_alert_dialog_button_bar_material.xml:40
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_list_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_alert_dialog_button_bar_material.xml:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_alert_dialog_material.xml:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_search_view.xml:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\724c30a42300b351d97edc7ed6f0233a\res\layout\cast_expanded_controller_activity.xml:167
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\bf4fc92f7d2eb5cb2f9b0c72b7cfad28\res\layout\abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\Y 520\.gradle\caches\transforms-2\files-2.1\724c30a42300b351d97edc7ed6f0233a\res\layout\cast_help_text.xml:2
+-keep class com.google.android.gms.cast.framework.internal.featurehighlight.HelpTextView { <init>(...); }
+
+# Referenced at D:\Android\Instagram-Clone\Parse-Server-Starter-Project\ParseStarterProject\src\main\res\layout\activity_main.xml:78
+-keepclassmembers class * { *** signUp(android.view.View); }
+

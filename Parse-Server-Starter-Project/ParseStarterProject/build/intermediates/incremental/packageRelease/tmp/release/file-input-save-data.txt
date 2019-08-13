@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Aug 12 18:34:40 IST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\Android\\Instagram-Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\r8\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
